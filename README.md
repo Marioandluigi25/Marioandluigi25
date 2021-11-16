@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pearl-div
+- 👋 Hi, I’m @marioandluigi25
 - 👀 I’m interested in Friday Night Funkin' modding
 - 🌱 I’m currently learning How to create custom assets into Friday Night Funkin'
 - 💞️ I’m looking to collaborate on any Friday Night Funkin' mods
